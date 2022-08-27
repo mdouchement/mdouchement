@@ -11,5 +11,6 @@
 | [ZOIA](https://github.com/mdouchement/zoia)                     | Patch parser for the Empress Effects ZOIA                                                                      |
 
 Electronic projects:
+- [Ampeg Heritage B-15 schematic](https://github.com/mdouchement/Ampeg-Heritage-B-15)
 - [Ampeg B115R tube preamp schematic](https://github.com/mdouchement/Ampeg-B115R)
 - [Alembic F2b tube preamp schematic](https://github.com/mdouchement/Alembic-F2b)
