@@ -12,5 +12,6 @@
 
 Electronic projects:
 - [Ampeg Heritage B-15 schematic](https://github.com/mdouchement/Ampeg-Heritage-B-15)
+- [DI box](https://github.com/mdouchement/DI_Box)
 - [Ampeg B115R tube preamp schematic](https://github.com/mdouchement/Ampeg-B115R)
 - [Alembic F2b tube preamp schematic](https://github.com/mdouchement/Alembic-F2b)
