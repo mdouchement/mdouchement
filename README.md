@@ -11,6 +11,7 @@
 | [ZOIA](https://github.com/mdouchement/zoia)                     | Patch parser for the Empress Effects ZOIA                                                                      |
 
 Electronic projects:
+- [Ampeg B15N Double Baffle cabinet](https://github.com/mdouchement/B15N-Double-Baffle-Cabinet)
 - [Ampeg Heritage B-15 schematic](https://github.com/mdouchement/Ampeg-Heritage-B-15)
 - [DI box](https://github.com/mdouchement/DI_Box)
 - [Ampeg B115R tube preamp schematic](https://github.com/mdouchement/Ampeg-B115R)
